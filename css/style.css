@@ -185,7 +185,8 @@ textarea {
 
 .home-hero {
   color: #fff;
-  background: linear-gradient(to right, rgba(0, 98, 185, 0.8), rgba(0, 98, 185, 0.8)), url(../../assets/svg/common-bg.svg);
+  background: linear-gradient(to right, rgba(0, 98, 185, 0.8), rgba(0, 98, 185, 0.8)); /*url(../../assets/svg/common-bg.svg);*/
+  background-image: url("https://miro.medium.com/v2/resize:fit:3840/format:webp/1*etDJsZIWf76sb1P_l6ZW3w.gif");
   background-position: center;
   height: 100vh;
   min-height: 80rem;
